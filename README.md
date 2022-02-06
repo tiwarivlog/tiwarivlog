@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/tiwarivlog/tiwarivlog/master/mast.png)]
+[![MastHead](https://raw.githubusercontent.com/tiwarivlog/tiwarivlog/master/Apollo Outer Space Desktop Wallpaper.png)]
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">I am Passionate for learning something new and sharing knowledge</h3>
 
