@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
-<h3 align="center">I am Passionate for learning something new </h3>
+<h3 align="center">I am Passionate for learning something new & trying to stand out from crowd </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarivlog&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarivlog" /> </p>
 
