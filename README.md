@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)]
+
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">I am Passionate for learning something new </h3>
 
