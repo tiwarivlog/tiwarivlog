@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/praveenscience/praveenscience/master/mast.png)]
+[![MastHead](https://raw.githubusercontent.com/tiwarivlog/tiwarivlog/master/mast.png)]
 <h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
 <h3 align="center">I am Passionate for learning something new and sharing knowledge</h3>
 
